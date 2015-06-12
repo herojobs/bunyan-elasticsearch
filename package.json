@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ccowan/bunyan-elasticsearch.git"
+    "url": "git://github.com/megastef/bunyan-elasticsearch.git"
   },
   "keywords": [
     "Bunyan",
