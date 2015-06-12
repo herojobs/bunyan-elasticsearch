@@ -1,6 +1,6 @@
 {
   "name": "bunyan-elasticsearch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Bunyan stream for sending log data to Elasticsearch",
   "main": "index.js",
   "scripts": {
@@ -18,9 +18,9 @@
   "author": "ccowan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ccowan/bunyan-elasticsearch/issues"
+    "url": "git://github.com/megastef/bunyan-elasticsearch.git"
   },
-  "homepage": "https://github.com/ccowan/bunyan-elasticsearch",
+  "homepage": "git://github.com/megastef/bunyan-elasticsearch",
   "dependencies": {
     "moment": "~2.5.1",
     "elasticsearch": "~4.1.0"
