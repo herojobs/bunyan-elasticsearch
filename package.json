@@ -23,7 +23,7 @@
   "homepage": "git://github.com/megastef/bunyan-elasticsearch",
   "dependencies": {
     "moment": "~2.5.1",
-    "elasticsearch": "~4.1.0"
+    "elasticsearch": ">4.1.0"
   },
   "devDependencies": {
     "mocha": "~1.17.1"
